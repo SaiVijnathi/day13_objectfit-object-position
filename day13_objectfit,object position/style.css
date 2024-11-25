@@ -1,0 +1,114 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: rgb(219, 239, 247);
+}
+
+h1{
+    background-color: orange;
+    color: black;
+    width: 100%;
+    font-size: 3rem;
+    margin-top: 50px;
+}
+
+/* BTS 1st picture */
+
+#BTS1 img{
+    border: 2px solid orange;
+    object-fit: none;
+    width: 100px;
+    height: 370px;
+}
+
+#BTS1{
+    box-shadow: 15px 15px 20px grey;
+    width: fit-content;
+    margin: auto ;
+    margin-top: 60px;
+}
+
+
+#kimTaehyung{
+    object-position: -5px 0px;
+}
+
+#kimSeokjin{
+    object-position: -150px 0px;
+}
+
+#minYoongi{
+    object-position: -75px 0px;
+}
+
+#jeonJungkook{
+    object-position: -237px 0px;
+}
+
+#kimNamjoon{
+    object-position: -320px 0px;
+}
+
+#parkJimin{
+    object-position: -400px 0px;
+}
+
+#jungHosoek{
+    object-position: -495px 0px;
+}
+
+/* BTS 2nd picture */
+
+#RM{
+    object-position: -250px -50px;
+}
+
+#jin{
+    object-position: -260px -90px;
+}
+
+#suga{
+    object-position: -230px 0px;
+}
+
+#jhope{
+    object-position: -280px -120px;
+}
+
+#jimin{
+    object-position: -295px -70px;
+}
+
+#V{
+    object-position: -260px -70px;
+}
+
+#JK{
+    object-position: -253px -45px;
+}
+
+#BTS2{
+    width: fit-content;
+    margin: auto ;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+#BTS2 img{
+    border: 2px solid grey;
+    object-fit: none;
+    width: 180px;
+    height: 370px;
+}
+
+p{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.pic{
+    display: inline-block;
+    height: 470px;
+    width: fit-content;
+    background-color: rgb(219, 239, 247);
+}
